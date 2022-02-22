@@ -1,0 +1,9 @@
+These recipes use a mix of the LOVE game engine and the standard Lua interpreter.
+Use the appropriate interpreter for each under Project > Lua Inpterpreter
+
+For LOVE recipes set the project file to the folder you're working on such as a_shapes_and_colors, the engine will run from main.lua
+
+For recipes using the Lua Interpereter the project folder can be anywhere as long as the Lua file is the active one.
+
+To get started with a_shapes_and_colors, right click the folder, go to Project Directory and select Set To Selected Directory.
+Don't forget to change the interpreter to LOVE
